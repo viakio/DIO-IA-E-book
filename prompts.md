@@ -2,7 +2,7 @@
 Google Gemini
 
 # Prompts utilizados
-## Texto
+## Textos
  - Crie um título de um ebook sobre o tema de funcionamento de uma IA, o ebook é do nicho de programação e o subnicho é de IA, o título deve ser claro e objetivo, e ter uma tematica de "O Senhor dos Aneis",me dê 5 exemplos, por favor.
  - Faça um texto para ebook , com foco no funcionamente das IAs, listando os principais topicos. Explique sempre de uma maneira simples. Deixe o texto enxuto, sempre deixe um título sugestivo por tópico, por favor.
  - Mude os títulos dos tópicos do ebook para ficarem com uma temática de "O Senhor dos Aneis", mas, mantenha as partes entre parenteses, por favor.
